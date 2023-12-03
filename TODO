@@ -1,0 +1,10 @@
+ - refactor CamelCase in project
+ - SSAO (only broken for Depth of Field?)
+ - automatic differentiation of distance estimators using dual numbers
+ - textures
+    - bump mapping
+    - mesh parametrization
+ - depth of field
+ - fluid / smoke simulation
+ - BVH for whole objects? 
+ - performance measurements for threaded rendering
